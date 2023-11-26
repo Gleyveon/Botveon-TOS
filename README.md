@@ -30,6 +30,7 @@ Botveon makes use of the Discord.js Node.js module, which automatically caches u
 - Date of the most recent vote on top.GG
 - Guild IDs
 - Guild roles
+- Guild channels
 
 ### Why do we keep this data?
 First and foremost, we prioritize user privacy and only store essential data necessary for the functionality of Botveon. Botveon wouldn't be able to operate as intended without this data.
