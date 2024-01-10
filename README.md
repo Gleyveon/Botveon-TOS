@@ -1,5 +1,5 @@
 # Botveon's Terms of Service + Privacy Policy
-By inviting Botveon or using its features, you are agreeing to the below-mentioned **Terms of Service** and **Privacy Policy**. If you do not agree with any of these terms, you are prohibited from using or adding Botveon to your server.
+By inviting Botveon or using its features, you are agreeing to the below-mentioned **Terms of Service** and **Privacy Policy**. If you break or do not agree with any of these terms, you are prohibited from using or adding Botveon to your server.
 
 ## Liability
 The owner of Botveon may not be held liable for individuals breaking these Terms at any given time. The owner trusts that end users will be truthful and will not misuse Botveon or the services of Discord in a malicious way.
@@ -39,7 +39,10 @@ First and foremost, we prioritize user privacy and only store essential data nec
 Until the user decides they no longer want their data to be stored.
 
 ### How can I get my data deleted?
-Contact our support team in our [support server](https://discord.gg/P3x9xtgFRH) by opening a #ticket.
+- Members can run the command `/account data delete` to delete their data on all servers.
+- Server owners can run the command `/config-reset server` to delete all data of the guild and member-profiles within that guild. 
+
+Please note that these commands are irreversible, and once data is deleted, it cannot be recovered.
 
 ### Do we share data?
 No, Botveon does not sell or share user data with third parties. User data is only used strictly for its own functionality and the (future) website.
