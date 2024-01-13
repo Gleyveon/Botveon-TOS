@@ -36,11 +36,12 @@ Botveon makes use of the Discord.js Node.js module, which automatically caches u
 First and foremost, we prioritize user privacy and only store essential data necessary for the functionality of Botveon. Botveon wouldn't be able to operate as intended without this data.
 
 ### How long do we store this data?
-Until the user decides they no longer want their data to be stored.
+Data is stored permanently unless a member or server owner manually removes it, or Botveon is kicked from your server.
 
 ### How can I get my data deleted?
 - Members can run the command `/account data delete` to delete their data on all servers.
 - Server owners can run the command `/config-reset server` to delete all data of the guild and member-profiles within that guild. 
+- Kicking Botveon will automatically delete all data of the guild and member-profiles within that guild when the bot is restarted. 
 
 Please note that these commands are irreversible, and once data is deleted, it cannot be recovered.
 
